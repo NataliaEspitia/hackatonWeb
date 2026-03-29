@@ -7,13 +7,13 @@ export default function NavBar () {
                 <Link href="/" className="text-sm ">
                     Home
                 </Link>
-                <Link href="/features" className="text-sm ">
+                <Link href="/" className="text-sm ">
                     Features
                 </Link>
-                <Link href="/pricing" className="text-sm ">
+                <Link href="/" className="text-sm ">
                     Pricing
                 </Link>
-                <Link href="/about" className="text-sm ">
+                <Link href="/" className="text-sm ">
                     About
                 </Link>
                 <div>
